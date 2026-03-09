@@ -30,7 +30,7 @@ A estrutura do projeto foi organizada seguindo o princípio de separação de re
 
 ### 🔄 Regras de Mapping (Transformação)
 A API processa o JSON recebido e realiza as seguintes conversões:
-- `numeroPedido` (ex: v10089015vdb-01) ➡️ `orderId` (ex: v10089015vdb)
+- `numeroPedido` (ex: v10089015vdb-01) ➡️ `orderId`
 - `valorTotal` ➡️ `value`
 - `dataCriacao` ➡️ `creationDate` (Convertido para objeto Date)
 - `items.idItem` ➡️ `items.productId` (Convertido para Number)
