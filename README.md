@@ -1,6 +1,6 @@
 # 📦 API de Gerenciamento de Pedidos - Node.js & MongoDB
 
-Esta é uma API REST desenvolvida em **Node.js** para o gerenciamento de pedidos, criada como parte de um desafio técnico. A aplicação demonstra o uso de arquitetura em camadas, persistência em banco de dados NoSQL e a implementação de uma lógica de **Data Mapping** (Transformação de Dados).
+Esta é uma API REST desenvolvida em **Node.js** para o gerenciamento de pedidos. A aplicação demonstra o uso de arquitetura em camadas, persistência em banco de dados NoSQL e a implementação de uma lógica de **Data Mapping** (Transformação de Dados).
 
 ## 🛠️ Tecnologias Utilizadas
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
